@@ -13,7 +13,7 @@ I'm a developer passionate about backend and looking for an opportunity to start
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BeatrizMirandaAguiar&theme=bear&background=000&border=00BFFF&dates=FFF)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BeatrizMirandaAguiar&layout=compact&bg_color=000&border_color=00BFFF&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BeatrizMirandaAguiar&theme=bear&layout=compact&bg_color=000&border_color=00BFFF&title_color=E94D5F&text_color=FFF)
 
 ### Languages
 ![C](https://img.shields.io/badge/C-100000?style=for-the-badge&logo=c&logoColor=9b2961)
