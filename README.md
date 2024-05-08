@@ -12,6 +12,7 @@ I'm a developer passionate about backend and looking for an opportunity to start
 ## GitHub Resume
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BeatrizMirandaAguiar&theme=bear&background=000&border=pink&dates=FFF)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BeatrizMirandaAguiar&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Languages
