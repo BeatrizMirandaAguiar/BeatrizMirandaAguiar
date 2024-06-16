@@ -25,3 +25,5 @@ I'm a developer passionate about backend and looking for an opportunity to start
 ### IDE
 ![VSCode](https://img.shields.io/badge/VSCode-100000?style=for-the-badge&logo=visual%20studio%20code&logoColor=9b2961)
 ![Eclipse](https://img.shields.io/badge/Eclipse-100000?style=for-the-badge&logo=eclipse&logoColor=9b2961)
+
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
