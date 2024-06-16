@@ -27,3 +27,7 @@ I'm a developer passionate about backend and looking for an opportunity to start
 ![Eclipse](https://img.shields.io/badge/Eclipse-100000?style=for-the-badge&logo=eclipse&logoColor=9b2961)
 
 ![snake gif](https://github.com/BeatrizMirandaAguiar/BeatrizMirandaAguiar/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: 9b2961)" srcset="https://raw.githubusercontent.com/BeatrizMirandaAguiar/BeatrizMirandaAguiar/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BeatrizMirandaAguiar/BeatrizMirandaAguiar/output/github-contribution-grid-snake.svg">
+</picture>
